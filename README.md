@@ -18,7 +18,7 @@ This repository contains the code I write while practicing Data Structures and A
 
 ## Progress
 
-Progress can be followed through commits and updates to this repository.
+Progress can be followed through commits and updates to this repository. I'm trying my best to learn more and more.
 
 ## Contribution
 
